@@ -1,0 +1,122 @@
+{
+    "filename": "test_1234",
+    "PageSize": {
+        "Width_cm": 21,
+        "height_cm": 29.7
+    },
+    "main_lang": [
+        "EN"
+    ],
+    "calendar_year": "2022",
+    "calscale": "gregorian",
+    "pictures": [
+        {
+            "index": 1,
+            "path": "janvier.jpeg",
+            "credit": "",
+            "description": ""
+        },
+        {
+            "index": 2,
+            "path": "fevrier.jpeg",
+            "credit": "",
+            "description": ""
+        },
+        {
+            "index": 3,
+            "path": "mars.jpeg",
+            "credit": "",
+            "description": ""
+        },
+        {
+            "index": 4,
+            "path": "avril.jpeg",
+            "credit": "",
+            "description": ""
+        },
+        {
+            "index": 5,
+            "path": "mai.jpeg",
+            "credit": "",
+            "description": ""
+        },
+        {
+            "index": 6,
+            "path": "juin.jpeg",
+            "credit": "",
+            "description": ""
+        },
+        {
+            "index": 7,
+            "path": "juillet.jpeg",
+            "credit": "",
+            "description": ""
+        },
+        {
+            "index": 8,
+            "path": "aout.jpeg",
+            "credit": "",
+            "description": ""
+        },
+        {
+            "index": 9,
+            "path": "septembre.jpeg",
+            "credit": "",
+            "description": ""
+        },
+        {
+            "index": 10,
+            "path": "octobre.jpeg",
+            "credit": "",
+            "description": ""
+        },
+        {
+            "index": 11,
+            "path": "novembre.jpeg",
+            "credit": "",
+            "description": ""
+        },
+        {
+            "index": 12,
+            "path": "decembre.jpeg",
+            "credit": "",
+            "description": ""
+        },
+        {
+            "index": 13,
+            "path": "janvier.jpeg",
+            "credit": "",
+            "description": ""
+        }
+    ],
+    "icals": [
+        {
+            "header": "icon",
+            "ressource": "Flag_FRANCE.svg",
+            "ical": "FR_doi_2000_2040.ics",
+            "isHoliday": false,
+            "showContent": true,
+            "fonts": {
+                "size": 6,
+                "face": "Times-Roman",
+                "color": "black"
+            }
+        },
+        {
+            "header": "icon",
+            "ressource": "St_Patrick.svg",
+            "ical": "St_Patrick.ics",
+            "isHoliday": false,
+            "showContent": true,
+            "fonts": {
+                "size": 6,
+                "face": "Times-Roman",
+                "color": "black"
+            }
+        }
+    ],
+    "caltemplate": "bound-top",
+    "dtstart": "20220101",
+    "dtend": "20221231",
+    "pdf_json_config_file": "tmp.json"
+}

@@ -1,0 +1,60 @@
+[1641220062] [MainThread] [ERROR   ] error test 101
+[1641220062] [MainThread] [INFO    ] config file used located at: E:\gitw\pyCal2PDF\www\json\Abb_no_pix.json
+[1641220062] [MainThread] [WARNING ] calendar_year not specified, using: 2022
+[1641220062] [MainThread] [INFO    ] mcv after: 186 - 20220101 - 20221231
+[1641220062] [MainThread] [INFO    ] pyCalPDF 227:parsing calendar - ics/SchulFerien_Bayern.ics
+[1641220062] [MainThread] [WARNING ] calendar: E:\gitw\pyCal2PDF\www\ics\SchulFerien_Bayern.ics
+	has <3 dates in selected time interval
+[1641220062] [MainThread] [INFO    ] pyCalPDF 227:parsing calendar - ics/ferien_bayern_2019.ics
+[1641220063] [MainThread] [WARNING ] calendar: E:\gitw\pyCal2PDF\www\ics\ferien_bayern_2019.ics
+	has <3 dates in selected time interval
+[1641220063] [MainThread] [INFO    ] pyCalPDF 227:parsing calendar - ics/chevrier_chatenay_freising_bdays.ics
+[1641220063] [MainThread] [INFO    ] pyCalPDF 227:parsing calendar - ics/freising_bdays.ics
+[1641220063] [MainThread] [INFO    ] pyCalPDF 227:parsing calendar - ics/flynn_birthdays.ics
+[1641220063] [MainThread] [INFO    ] pyCalPDF 227:parsing calendar - ics/garner_bdays.ics
+[1641220063] [MainThread] [INFO    ] pyCalPDF 227:parsing calendar - ics/mike_flynn_bdays.ics
+[1641220063] [MainThread] [INFO    ] pyCalPDF 227:parsing calendar - ics/jirgens_bdays.ics
+[1641220063] [MainThread] [INFO    ] pyCalPDF 227:parsing calendar - ics/nightingales_bdays.ics
+[1641220063] [MainThread] [INFO    ] pyCalPDF 227:parsing calendar - ics/abbmatt_mariage.ics
+[1641220063] [MainThread] [WARNING ] calendar: E:\gitw\pyCal2PDF\www\ics\abbmatt_mariage.ics
+	has <3 dates in selected time interval
+[1641220063] [MainThread] [INFO    ] pyCalPDF 227:parsing calendar - ics/catho_2007_2020.ics
+[1641220063] [MainThread] [INFO    ] pyCalPDF 227:parsing calendar - ics/deutschland_ferien_2007_2020.ics
+[1641220063] [MainThread] [WARNING ] failed to load:E:\gitw\pyCal2PDF\www\ics\deutschland_ferien_2007_2020.ics
+[1641220063] [MainThread] [WARNING ] calendar: E:\gitw\pyCal2PDF\www\ics\deutschland_ferien_2007_2020.ics
+	has <3 dates in selected time interval
+[1641220063] [MainThread] [INFO    ] pyCalPDF 227:parsing calendar - ics/deutschland_doi.ics
+[1641220063] [MainThread] [INFO    ] pyCalPDF 227:parsing calendar - ics/jpn_ferie.ics
+[1641220063] [MainThread] [INFO    ] pyCalPDF 227:parsing calendar - ics/freising_bins.ics
+[1641220063] [MainThread] [INFO    ] pyCalPDF 227:parsing calendar - ics/freising_ybin.ics
+[1641220063] [MainThread] [INFO    ] pyCalPDF 227:parsing calendar - ics/freising_paper_bins.ics
+[1641220063] [MainThread] [INFO    ] pyCalPDF 227:parsing calendar - ics/uk_doi_2007_2020.ics
+[1641220063] [MainThread] [INFO    ] pyCalPDF 227:parsing calendar - ics/uk_bank_2007_2020.ics
+[1641220063] [MainThread] [WARNING ] failed to load:E:\gitw\pyCal2PDF\www\ics\uk_bank_2007_2020.ics
+[1641220063] [MainThread] [WARNING ] calendar: E:\gitw\pyCal2PDF\www\ics\uk_bank_2007_2020.ics
+	has <3 dates in selected time interval
+[1641220063] [MainThread] [INFO    ] pyCalPDF 227:parsing calendar - ics/moon_Freising.ics
+[1641220063] [MainThread] [WARNING ] calendar: E:\gitw\pyCal2PDF\www\ics\moon_Freising.ics
+	has <3 dates in selected time interval
+[1641220063] [MainThread] [INFO    ] pyCalPDF 227:parsing calendar - ics/france_ferie_2007_2020.ics
+[1641220063] [MainThread] [INFO    ] pyCalPDF 227:parsing calendar - ics/france_doi_2007_2018.ics
+[1641220063] [MainThread] [INFO    ] pyCalPDF 227:parsing calendar - ics/Calendrier_Scolaire_Zone_C.ics
+[1641220063] [MainThread] [WARNING ] calendar: E:\gitw\pyCal2PDF\www\ics\Calendrier_Scolaire_Zone_C.ics
+	has <3 dates in selected time interval
+[1641220064] [MainThread] [INFO    ] pyCalPDF 227:printing month - [2]
+[1641220064] [MainThread] [INFO    ] pyCalPDF 227:printing month - [3]
+[1641220064] [MainThread] [INFO    ] pyCalPDF 227:printing month - [4]
+[1641220065] [MainThread] [INFO    ] pyCalPDF 227:printing month - [5]
+[1641220065] [MainThread] [INFO    ] pyCalPDF 227:printing month - [6]
+[1641220065] [MainThread] [INFO    ] pyCalPDF 227:printing month - [7]
+[1641220066] [MainThread] [INFO    ] pyCalPDF 227:printing month - [8]
+[1641220066] [MainThread] [WARNING ] Can't handle color: url(#radial0)
+[1641220066] [MainThread] [WARNING ] Can't handle color: url(#linear0)
+[1641220066] [MainThread] [WARNING ] Can't handle color: url(#linear1)
+[1641220066] [MainThread] [WARNING ] Can't handle color: url(#linear2)
+[1641220066] [MainThread] [WARNING ] Can't handle color: url(#linear3)
+[1641220066] [MainThread] [INFO    ] pyCalPDF 227:printing month - [9]
+[1641220067] [MainThread] [INFO    ] pyCalPDF 227:printing month - [10]
+[1641220067] [MainThread] [INFO    ] pyCalPDF 227:printing month - [11]
+[1641220068] [MainThread] [INFO    ] pyCalPDF 227:printing month - [12]
+[1641220068] [MainThread] [INFO    ] pyCalPDF 227:printing month - [1]
