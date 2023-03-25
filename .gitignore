@@ -5,9 +5,11 @@ lib
 include
 *.py[cod]
 ./venv/*
+*.cmd
 venv_py3832/
 ./out/*
-out/
+*.cmd
+out/*
 /www/
 .venv
 venv
